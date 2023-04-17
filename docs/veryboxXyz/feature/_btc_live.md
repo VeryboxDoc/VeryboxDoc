@@ -2,4 +2,4 @@
 
 > btcNft
 
-![BTC NFT实时mint跟踪](../images/btcNFT1.png)
+![BTC NFT实时mint跟踪](../images/btcNft1.png)
