@@ -1,5 +1,5 @@
 #  BTC NFT实时mint跟踪
-
-> btcNft
+---
+> BtcNft
 
 ![BTC NFT实时mint跟踪](../images/btcNft1.png)

@@ -1,6 +1,6 @@
 # 合约方法批量铸造NFT
-
-> mintNft
+---
+> MintNft
 
 ![合约方法批量铸造NFT](../images/mintNft.png)
 

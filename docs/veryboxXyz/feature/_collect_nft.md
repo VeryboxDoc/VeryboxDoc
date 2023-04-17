@@ -1,5 +1,5 @@
 #  NFT批量转移
-
-> collectNft
+---
+> CollectNft
 
 ![NFT批量转移](../images/collectNft.png)

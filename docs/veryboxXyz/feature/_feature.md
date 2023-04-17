@@ -1,5 +1,5 @@
 #  Verybox.xyz工具功能
-
+---
 <font color=#2196f3 size=7> 1、[链上nft实时mint跟踪](https://veryboxdoc.github.io/#/veryboxXyz/feature/_mint_live.md)</font>
 
 <font color=#2196f3 size=7> 2、[批量跟单功能](https://veryboxdoc.github.io/#/veryboxXyz/feature/_follow_mint.md)</font>
